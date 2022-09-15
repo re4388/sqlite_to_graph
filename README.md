@@ -5,7 +5,7 @@
 - data download link:https://www.kaggle.com/imdevskp/sars-outbreak-2003-complete-dataset
 - csv data I use: sars_2003_complete_dataset_clean.csv
 
-## import csv into xx
+## import csv file
 
 - import via SQLiteStudio (I use win10)
 - tools -> import
