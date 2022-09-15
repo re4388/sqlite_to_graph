@@ -1,4 +1,4 @@
-# How to see graph sqlite data query result
+# Graph sqlite query result
 
 
 ## dataset prep
