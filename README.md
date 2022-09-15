@@ -12,7 +12,7 @@
 - In this case, tick "fist line represent CSV col name"
 
 
-# create view
+## create view
 
 - In this step, the csv is imported in the sqlite
 - let's create two views
