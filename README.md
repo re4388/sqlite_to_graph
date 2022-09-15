@@ -68,20 +68,9 @@ from v_sars
 
 ## run code! 
 
+- run a1.py  
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+## ref
 ref: https://funprojects.blog/2021/12/27/6-lines-of-python-to-plot-sqlite-data/
 
